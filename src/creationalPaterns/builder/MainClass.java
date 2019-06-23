@@ -26,4 +26,5 @@ public class MainClass {
     //burada test için bişeyler yapmaya çalııyorum
     //burada master brancda değişiklik yapıyorum
     //burada master brancda değişiklik yapıyorum
+    //bn
 }
