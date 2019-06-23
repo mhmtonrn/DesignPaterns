@@ -22,4 +22,6 @@ public class MainClass {
         System.out.println(kevser);
         System.out.println(merve);
     }
+    
+    //burada test için bişeyler yapmaya çalııyorum
 }
