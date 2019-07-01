@@ -23,5 +23,4 @@ public class MainClass {
         System.out.println(merve);
     }
     
-    //burada test için bişeyler yapmaya çalııyorum
 }
